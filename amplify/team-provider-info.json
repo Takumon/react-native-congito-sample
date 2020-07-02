@@ -10,6 +10,11 @@
             "StackName": "amplify-reactnativecognitosa-dev-143520",
             "StackId": "arn:aws:cloudformation:us-east-1:019087514233:stack/amplify-reactnativecognitosa-dev-143520/d3b5cba0-bc25-11ea-9891-1225390e8313",
             "AmplifyAppId": "d316az82fb065r"
+        },
+        "categories": {
+            "auth": {
+                "reactnativecognitosa8316b00f": {}
+            }
         }
     }
 }
