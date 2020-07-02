@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-reactnativecognitosa-dev-143520-authRole",
+            "UnauthRoleArn": "arn:aws:iam::019087514233:role/amplify-reactnativecognitosa-dev-143520-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::019087514233:role/amplify-reactnativecognitosa-dev-143520-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-reactnativecognitosa-dev-143520-deployment",
+            "UnauthRoleName": "amplify-reactnativecognitosa-dev-143520-unauthRole",
+            "StackName": "amplify-reactnativecognitosa-dev-143520",
+            "StackId": "arn:aws:cloudformation:us-east-1:019087514233:stack/amplify-reactnativecognitosa-dev-143520/d3b5cba0-bc25-11ea-9891-1225390e8313",
+            "AmplifyAppId": "d316az82fb065r"
+        }
+    }
+}
